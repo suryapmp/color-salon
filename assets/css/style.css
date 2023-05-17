@@ -3099,8 +3099,16 @@ ul.leaders span+span {
 }
 
 .error-msg {
+<<<<<<< HEAD
     margin: 20px 0px 0px!important;
     text-align: center;
     font-size: 18px;
     color: #c79a87;
 }
+=======
+	margin: 20px 0px 0px!important;
+	text-align: center;
+	font-size: 18px;
+	color: #c79a87;
+}
+>>>>>>> b01dee448d7abb5be6602ac504346a7f2c8ebcb3
